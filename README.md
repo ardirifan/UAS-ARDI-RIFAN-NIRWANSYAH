@@ -53,7 +53,7 @@ MANCHESTER UNITED ROADS
                         </h3>
                     </div>
                     <div class="p-6 text-center">
-                         <img src="Screenshot (218)" alt="click here coba" class="rounded-lg border border-gray-200 shadow-sm hover:scale-[1.02] transition-transform duration-300 mx-auto">
+                         <img src="screenshotss/Screenshot (218)" alt="click here coba" class="rounded-lg border border-gray-200 shadow-sm hover:scale-[1.02] transition-transform duration-300 mx-auto">
                         <p class="text-sm text-gray-500 mt-4 italic">Gambar 1: Tampilan Pivot Table hasil pengolahan data.</p>
                     </div>
                 </section> 
