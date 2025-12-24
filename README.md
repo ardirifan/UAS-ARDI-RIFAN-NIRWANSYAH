@@ -1,6 +1,6 @@
 # UAS-ARDI-RIFAN-NIRWANSYAH
 MANCHESTER UNITED ROADS
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -34,11 +34,11 @@ MANCHESTER UNITED ROADS
                     <div class="space-y-4 border-t pt-6 text-left">
                         <div>
                             <p class="text-xs uppercase text-gray-400 font-semibold tracking-widest">Nama Lengkap</p>
-                            <p class="text-lg font-medium text-gray-800">[Ardi Rifan Nirwansyah]</p>
+                            <p class="text-lg font-medium text-gray-800">Ardi Rifan Nirwansyah</p>
                         </div>
                         <div>
                             <p class="text-xs uppercase text-gray-400 font-semibold tracking-widest">Nomor Induk Mahasiswa</p>
-                            <p class="text-lg font-medium text-gray-800">[A0B025105]</p>
+                            <p class="text-lg font-medium text-gray-800">A0B025105</p>
                         </div>
                     </div>
                 </div>
