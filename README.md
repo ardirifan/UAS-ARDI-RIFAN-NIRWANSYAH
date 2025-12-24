@@ -53,8 +53,7 @@ MANCHESTER UNITED ROADS
                         </h3>
                     </div>
                     <div class="p-6 text-center">
-                        <img src="<img width="1264" height="402" alt="SCREENSHOT" src="https://github.com/user-attachments/assets/772e9ad9-d62b-4a1f-85eb-517fe48d7e64" />
-" alt="Pivot Table Analysis" class="rounded-lg border border-gray-200 shadow-sm hover:scale-[1.02] transition-transform duration-300 mx-auto">
+                         <img src="<img width="1303" height="353" alt="image" src="https://github.com/user-attachments/assets/85e7c4b5-7f0f-4131-9e51-7164e6d3cb66" />
                         <p class="text-sm text-gray-500 mt-4 italic">Gambar 1: Tampilan Pivot Table hasil pengolahan data.</p>
                     </div>
                 </section> 
