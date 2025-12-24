@@ -26,9 +26,9 @@ MANCHESTER UNITED ROADS
             <div class="lg:col-span-1">
                 <div class="bg-white rounded-xl shadow-md p-8 sticky top-6">
                     <div class="text-center mb-6">
-                        <div class="w-24 h-24 bg-indigo-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                            <i class="fas fa-user-graduate text-4xl text-indigo-600"></i>
-                        </div>
+                        <div class="w-32 h-32 rounded-full overflow-hidden mx-auto mb-4 border-4 border-indigo-200 shadow-lg">
+    <img src="screenshotss/cc773d0e-c57f-42b4-831f-c32b60a92722_removalai_preview.png" alt="Foto Profil Mahasiswa" class="w-full h-full object-cover">
+</div>
                         <h2 class="text-2xl font-bold text-gray-900 leading-tight">IDENTITAS</h2>
                     </div>
                     <div class="space-y-4 border-t pt-6 text-left">
