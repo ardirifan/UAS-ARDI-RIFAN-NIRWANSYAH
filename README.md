@@ -53,7 +53,7 @@ MANCHESTER UNITED ROADS
                         </h3>
                     </div>
                     <div class="p-6 text-center">
-                         <img src="<img width="1303" height="353" alt="<img width="1303" height="353" alt="image" src="https://github.com/user-attachments/assets/fc27bbaf-0e7f-4ed6-9d08-0a71386707e0" />
+                         <img src="Screenshot (218) />
                         <p class="text-sm text-gray-500 mt-4 italic">Gambar 1: Tampilan Pivot Table hasil pengolahan data.</p>
                     </div>
                 </section> 
