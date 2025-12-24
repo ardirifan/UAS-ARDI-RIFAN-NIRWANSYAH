@@ -5,7 +5,7 @@ MANCHESTER UNITED ROADS
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tugas Analisis Data - GitHub Pages</title>
+    <title>Tugas UAS Aplikasi Komputer - GitHub Pages</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
@@ -14,9 +14,9 @@ MANCHESTER UNITED ROADS
     <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-16 shadow-lg">
         <div class="container mx-auto px-6 text-center">
             <h1 class="text-4xl md:text-5xl font-extrabold mb-4 uppercase tracking-wider">
-                Project Analisis Data
+                Tugas UAS Take Home
             </h1>
-            <p class="text-xl opacity-90 font-light">Tugas Mata Kuliah - Visualisasi Data</p>
+            <p class="text-xl opacity-90 font-light">Mata Kuliah - Aplikasi Komputer</p>
         </div>
     </header>
 
@@ -34,11 +34,11 @@ MANCHESTER UNITED ROADS
                     <div class="space-y-4 border-t pt-6 text-left">
                         <div>
                             <p class="text-xs uppercase text-gray-400 font-semibold tracking-widest">Nama Lengkap</p>
-                            <p class="text-lg font-medium text-gray-800">[NAMA ANDA]</p>
+                            <p class="text-lg font-medium text-gray-800">[Ardi Rifan Nirwansyah]</p>
                         </div>
                         <div>
                             <p class="text-xs uppercase text-gray-400 font-semibold tracking-widest">Nomor Induk Mahasiswa</p>
-                            <p class="text-lg font-medium text-gray-800">[NIM ANDA]</p>
+                            <p class="text-lg font-medium text-gray-800">[A0B025105]</p>
                         </div>
                     </div>
                 </div>
@@ -53,10 +53,11 @@ MANCHESTER UNITED ROADS
                         </h3>
                     </div>
                     <div class="p-6 text-center">
-                        <img src="screenshot-pivot.png" alt="Pivot Table Analysis" class="rounded-lg border border-gray-200 shadow-sm hover:scale-[1.02] transition-transform duration-300 mx-auto">
+                        <img src="<img width="1264" height="402" alt="SCREENSHOT" src="https://github.com/user-attachments/assets/772e9ad9-d62b-4a1f-85eb-517fe48d7e64" />
+" alt="Pivot Table Analysis" class="rounded-lg border border-gray-200 shadow-sm hover:scale-[1.02] transition-transform duration-300 mx-auto">
                         <p class="text-sm text-gray-500 mt-4 italic">Gambar 1: Tampilan Pivot Table hasil pengolahan data.</p>
                     </div>
-                </section>
+                </section> 
 
                 <section class="bg-white rounded-xl shadow-md p-8">
                     <h3 class="text-2xl font-bold text-gray-900 mb-6 flex items-center border-b pb-4">
@@ -64,12 +65,12 @@ MANCHESTER UNITED ROADS
                     </h3>
                     <div class="prose prose-indigo max-w-none text-gray-700 leading-relaxed">
                         <p class="mb-4">
-                            Berdasarkan hasil pengolahan data menggunakan Pivot Table di atas, dapat disimpulkan bahwa total luas area yang dianalisis adalah sebesar <strong>196.111,22 m²</strong> atau sekitar <strong>19,61 Hektar</strong>.
+                          Total luas lahan yang dianalisis di Kabupaten Wonosobo adalah <strong>96.111,225 Hektar.</strong> Berdasarkan distribusinya, tanah di wilayah ini sangat didominasi oleh tingkat keasaman Masam dibandingkan dengan kondisi lainnya:.
                         </p>
                         <ul class="list-disc pl-5 space-y-2">
-                            <li>Tren data menunjukkan adanya konsentrasi nilai pada kategori...</li>
-                            <li>Terdapat kenaikan signifikan sebesar [X]% pada periode...</li>
-                            <li>Hasil ini mengimplikasikan bahwa strategi selanjutnya harus difokuskan pada...</li>
+                            <li><strong>Tanah Masam:</strong> Mencakup area seluas <strong>73.589,528 Ha</strong> (sekitar 76,57% dari total lahan).</li>
+                            <li><strong>Tanah Agak Masam:</strong> Mencakup area seluas <strong>20.944,000 Ha</strong> (sekitar 21,79% dari total lahan).</li>
+                            <li><strong>Data Kosong (Blank):</strong> Terdapat 1.577,697 Ha lahan yang klasifikasi pH-nya tidak terdefinisi.</li>
                         </ul>
                     </div>
                 </section>
@@ -79,7 +80,7 @@ MANCHESTER UNITED ROADS
     </main>
 
     <footer class="mt-20 py-10 bg-gray-100 text-center text-gray-500 border-t">
-        <p>&copy; 2024 - Dibuat dengan <i class="fas fa-heart text-red-500"></i> untuk Tugas Kuliah</p>
+        <p>&copy; 2025 - Dibuat oleh Ardi Rifan Nirwansyah <i class="fas fa-heart text-red-500"></i> untuk Tugas UAS Aplikomm</p>
     </footer>
 
 </body>
